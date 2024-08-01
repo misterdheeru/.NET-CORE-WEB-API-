@@ -1,0 +1,14 @@
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.exe.config
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.exe
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.pdb
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.csproj.AssemblyReference.cache
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.csproj.CoreCompileInputs.cache
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.exe
+D:\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.pdb
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.exe.config
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.exe
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\bin\Debug\Example 1.pdb
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.csproj.AssemblyReference.cache
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.exe
+D:\PROGRAMMING\DotNet\ASP.NET MVC CORE\Examples\Depencancy Injection Console Program Example\Example 1\Example 1\obj\Debug\Example 1.pdb

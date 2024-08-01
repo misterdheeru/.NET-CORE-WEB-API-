@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kbgKLh8zSa/7i6LO8AstPHYn9t2D9LZQ1ARttI5wq20=",
+  "Source": "Project8.0",
+  "BasePath": "_content/Project8.0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project8.0\\wwwroot",
+      "Source": "Project8.0",
+      "ContentRoot": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE\\Rooting\\Project8.0\\Project8.0\\wwwroot\\",
+      "BasePath": "_content/Project8.0",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

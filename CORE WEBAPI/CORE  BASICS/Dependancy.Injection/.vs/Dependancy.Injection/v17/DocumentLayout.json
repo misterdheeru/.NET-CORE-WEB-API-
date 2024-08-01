@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\CORE  BASICS\\Dependancy.Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF0D536-145C-4C18-9E03-D3B69BD91F25}|Dependancy.Injection\\Dependancy.Injection.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core webapi\\core  basics\\dependancy.injection\\dependancy.injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF0D536-145C-4C18-9E03-D3B69BD91F25}|Dependancy.Injection\\Dependancy.Injection.csproj|solutionrelative:dependancy.injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E71ED-3A59-4D7B-BC89-07ED0D65F63A}|RNRITS.IEmployees\\RNRITS.IEmployees.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core webapi\\core  basics\\dependancy.injection\\rnrits.iemployees\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2E71ED-3A59-4D7B-BC89-07ED0D65F63A}|RNRITS.IEmployees\\RNRITS.IEmployees.csproj|solutionrelative:rnrits.iemployees\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\CORE  BASICS\\Dependancy.Injection\\RNRITS.IEmployees\\Class1.cs",
+              "RelativeDocumentMoniker": "RNRITS.IEmployees\\Class1.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\CORE  BASICS\\Dependancy.Injection\\RNRITS.IEmployees\\Class1.cs",
+              "RelativeToolTip": "RNRITS.IEmployees\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:02:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\CORE  BASICS\\Dependancy.Injection\\Dependancy.Injection\\Program.cs",
+              "RelativeDocumentMoniker": "Dependancy.Injection\\Program.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\CORE  BASICS\\Dependancy.Injection\\Dependancy.Injection\\Program.cs",
+              "RelativeToolTip": "Dependancy.Injection\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:56:55.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

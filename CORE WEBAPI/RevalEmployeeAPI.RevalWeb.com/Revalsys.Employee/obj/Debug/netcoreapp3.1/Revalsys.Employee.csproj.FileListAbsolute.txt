@@ -1,0 +1,37 @@
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.AssemblyReference.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfoInputs.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfo.cs
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.CoreCompileInputs.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.deps.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.CopyComplete
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.deps.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.AssemblyReference.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfoInputs.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfo.cs
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.CoreCompileInputs.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.CopyComplete
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.deps.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.7518F681.Up2Date
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\netcoreapp3.1\Revalsys.Employee.pdb

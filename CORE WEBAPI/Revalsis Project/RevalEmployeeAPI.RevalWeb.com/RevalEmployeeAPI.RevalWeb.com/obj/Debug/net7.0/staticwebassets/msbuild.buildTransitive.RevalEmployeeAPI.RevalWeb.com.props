@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RevalEmployeeAPI.RevalWeb.com.props" />
+</Project>

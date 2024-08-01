@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\net7.0\Revalsys.Employee.deps.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\net7.0\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\net7.0\Revalsys.Employee.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\net7.0\Revalsys.Common.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\bin\Debug\net7.0\Revalsys.Common.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.7518F681.Up2Date
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\refint\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\Revalsys.Employee.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\Revalsys.Employee\obj\Debug\net7.0\ref\Revalsys.Employee.dll

@@ -1,0 +1,6 @@
+@GP.EMPLOYEE.CRUD_HostAddress = http://localhost:5213
+
+GET {{GP.EMPLOYEE.CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

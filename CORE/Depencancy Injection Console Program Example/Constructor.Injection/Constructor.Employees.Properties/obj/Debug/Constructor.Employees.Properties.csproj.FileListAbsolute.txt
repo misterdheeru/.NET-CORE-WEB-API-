@@ -1,0 +1,6 @@
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\bin\Debug\Constructor.Employees.Properties.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\bin\Debug\Constructor.Employees.Properties.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\obj\Debug\Constructor.Employees.Properties.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\obj\Debug\Constructor.Employees.Properties.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\obj\Debug\Constructor.Employees.Properties.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Depencancy Injection Console Program Example\Constructor.Injection\Constructor.Employees.Properties\obj\Debug\Constructor.Employees.Properties.pdb

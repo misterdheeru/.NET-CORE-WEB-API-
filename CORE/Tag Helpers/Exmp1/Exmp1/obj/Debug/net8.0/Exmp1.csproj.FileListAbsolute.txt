@@ -1,0 +1,58 @@
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\appsettings.Development.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\appsettings.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.staticwebassets.runtime.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.exe
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.deps.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.runtimeconfig.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.RazorAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.RazorAssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.Exmp1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.build.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\scopedcss\bundle\Exmp1.styles.css
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\refint\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.genruntimeconfig.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\ref\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\libman.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\appsettings.Development.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\appsettings.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\libman.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.staticwebassets.runtime.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.exe
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.deps.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.runtimeconfig.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\bin\Debug\net8.0\Exmp1.pdb
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.RazorAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.RazorAssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.Exmp1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.build.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exmp1.props
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\scopedcss\bundle\Exmp1.styles.css
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\refint\Exmp1.dll
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.pdb
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\Exmp1.genruntimeconfig.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE\Tag Helpers\Exmp1\Exmp1\obj\Debug\net8.0\ref\Exmp1.dll

@@ -1,0 +1,6 @@
+@EMP_CRUD_HostAddress = http://localhost:5029
+
+GET {{EMP_CRUD_HostAddress}}/Employee/
+Accept: application/json
+
+###

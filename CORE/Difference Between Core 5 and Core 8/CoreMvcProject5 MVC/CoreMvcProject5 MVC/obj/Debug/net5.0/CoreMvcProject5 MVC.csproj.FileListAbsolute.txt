@@ -1,0 +1,43 @@
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\appsettings.Development.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\appsettings.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.exe
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.deps.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.runtimeconfig.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.runtimeconfig.dev.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.Views.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\bin\Debug\net5.0\CoreMvcProject5 MVC.Views.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.RazorAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.RazorAssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.TagHelpers.input.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.TagHelpers.output.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.RazorCoreGenerate.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.RazorTargetAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.RazorTargetAssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.Views.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\scopedcss\bundle\CoreMvcProject5 MVC.styles.css
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\CoreMvcProject5 MVC.StaticWebAssets.Manifest.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\CoreMvcProject5 MVC.StaticWebAssets.Pack.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\msbuild.CoreMvcProject5 MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\msbuild.build.CoreMvcProject5 MVC.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CoreMvcProject5 MVC.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CoreMvcProject5 MVC.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\refint\CoreMvcProject5 MVC.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcProject5 MVC.genruntimeconfig.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\ref\CoreMvcProject5 MVC.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\CoreMvcProject5 MVC\CoreMvcProject5 MVC\obj\Debug\net5.0\CoreMvcP.8C0B1FB3.Up2Date

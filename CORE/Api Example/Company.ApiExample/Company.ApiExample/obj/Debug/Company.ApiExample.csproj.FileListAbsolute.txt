@@ -1,0 +1,10 @@
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\bin\Debug\Company.ApiExample.exe.config
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\bin\Debug\Company.ApiExample.exe
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\bin\Debug\Company.ApiExample.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\bin\Debug\Newtonsoft.Json.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\bin\Debug\Newtonsoft.Json.xml
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\obj\Debug\Company.ApiExample.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\obj\Debug\Company.ApiExample.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\obj\Debug\Company..1C2F40CB.Up2Date
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\obj\Debug\Company.ApiExample.exe
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE\Api Example\Company.ApiExample\Company.ApiExample\obj\Debug\Company.ApiExample.pdb

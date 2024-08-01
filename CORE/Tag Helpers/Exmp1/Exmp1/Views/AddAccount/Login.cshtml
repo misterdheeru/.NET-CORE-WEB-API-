@@ -1,0 +1,36 @@
+﻿@model LoginMode
+
+
+<form method="post"  >
+
+    <label asp-for="Email">
+      Enter Email :
+    </label>
+    <input type="text" asp-for="Email" />
+
+    <br />
+
+  
+   <br />
+
+   
+   <button asp-route="AddAccount/Login">Submit</button>
+    <label asp-for="Password">
+        Enter Password  :
+    </label>
+    <input type="password" asp-for="Password" />
+    <button asp-route="AddAccount/Password">Submit</button>
+
+
+</form>
+<form method="post" action="Rama/Sitha/Lava/Kusha">
+
+    <button asp-route="AddAccount/Login">Submit</button>
+    <label asp-for="Password">
+        Enter Password  :
+    </label>
+    <input type="password" asp-for="Password" />
+
+  <input type="submit" value="show" />
+
+</form>

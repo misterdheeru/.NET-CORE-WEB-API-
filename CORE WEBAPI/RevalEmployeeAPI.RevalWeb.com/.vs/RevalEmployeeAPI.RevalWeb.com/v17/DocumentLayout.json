@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com\\controllers\\getemployeebysearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|solutionrelative:revalemployeeapi.revalweb.com\\controllers\\getemployeebysearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|solutionrelative:revalemployeeapi.revalweb.com\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|solutionrelative:revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.common\\revalproperties\\configurationsettingslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|solutionrelative:revalsys.common\\revalproperties\\configurationsettingslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\revalsys.employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\revalsys.employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.common\\revalproperties\\regularexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|solutionrelative:revalsys.common\\revalproperties\\regularexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalemployeeapi.revalweb.com\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98400EA-2C3E-4ED5-999E-CFC34004C419}|RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj|solutionrelative:revalemployeeapi.revalweb.com\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\bal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\bal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.common\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEE64E8-6607-4603-8437-ADCE5933E66D}|Revalsys.Common\\Revalsys.Common.csproj|solutionrelative:revalsys.common\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\revalproperties\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\revalproperties\\employeelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\revalproperties\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\revalproperties\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|d:\\programming\\asp.net mvc bangaru raju\\core webapi\\revalemployeeapi.revalweb.com\\revalsys.employee\\revalproperties\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3302419-F361-4BAE-B4C3-CE530B355C58}|Revalsys.Employee\\Revalsys.Employee.csproj|solutionrelative:revalsys.employee\\revalproperties\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevalEmployeeAPI.RevalWeb.com",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj",
+              "RelativeDocumentMoniker": "RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj",
+              "RelativeToolTip": "RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T17:22:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revalsys.Employee.csproj",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\Revalsys.Employee.csproj",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\Revalsys.Employee.csproj",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\Revalsys.Employee.csproj",
+              "RelativeToolTip": "Revalsys.Employee\\Revalsys.Employee.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T17:21:17.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetEmployeeBySearchController.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\Controllers\\GetEmployeeBySearchController.cs",
+              "RelativeDocumentMoniker": "RevalEmployeeAPI.RevalWeb.com\\Controllers\\GetEmployeeBySearchController.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\Controllers\\GetEmployeeBySearchController.cs",
+              "RelativeToolTip": "RevalEmployeeAPI.RevalWeb.com\\Controllers\\GetEmployeeBySearchController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:40:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\appsettings.json",
+              "RelativeDocumentMoniker": "RevalEmployeeAPI.RevalWeb.com\\appsettings.json",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\appsettings.json",
+              "RelativeToolTip": "RevalEmployeeAPI.RevalWeb.com\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T12:34:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationSettingsListDTO.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\RevalProperties\\ConfigurationSettingsListDTO.cs",
+              "RelativeDocumentMoniker": "Revalsys.Common\\RevalProperties\\ConfigurationSettingsListDTO.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\RevalProperties\\ConfigurationSettingsListDTO.cs",
+              "RelativeToolTip": "Revalsys.Common\\RevalProperties\\ConfigurationSettingsListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:33:50.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegularExpression.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\RevalProperties\\RegularExpression.cs",
+              "RelativeDocumentMoniker": "Revalsys.Common\\RevalProperties\\RegularExpression.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\RevalProperties\\RegularExpression.cs",
+              "RelativeToolTip": "Revalsys.Common\\RevalProperties\\RegularExpression.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwE0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:33:49.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\RevalProperties\\Models\\Response.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\Models\\Response.cs",
+              "RelativeToolTip": "Revalsys.Employee\\RevalProperties\\Models\\Response.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvw8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:30:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeListDTO.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\EmployeeListDTO.cs",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\RevalProperties\\EmployeeListDTO.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\EmployeeListDTO.cs",
+              "RelativeToolTip": "Revalsys.Employee\\RevalProperties\\EmployeeListDTO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:32:16.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\RevalProperties\\Models\\Request.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\RevalProperties\\Models\\Request.cs",
+              "RelativeToolTip": "Revalsys.Employee\\RevalProperties\\Models\\Request.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAA5wJgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:30:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeBAL.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\BAL\\EmployeeBAL.cs",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\BAL\\EmployeeBAL.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\BAL\\EmployeeBAL.cs",
+              "RelativeToolTip": "Revalsys.Employee\\BAL\\EmployeeBAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:30:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "Revalsys.Employee\\DAL\\EmployeeDAL.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Employee\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "Revalsys.Employee\\DAL\\EmployeeDAL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:29:24.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\General.cs",
+              "RelativeDocumentMoniker": "Revalsys.Common\\General.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\Revalsys.Common\\General.cs",
+              "RelativeToolTip": "Revalsys.Common\\General.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:29:21.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\Startup.cs",
+              "RelativeDocumentMoniker": "RevalEmployeeAPI.RevalWeb.com\\Startup.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC BANGARU RAJU\\CORE WEBAPI\\RevalEmployeeAPI.RevalWeb.com\\RevalEmployeeAPI.RevalWeb.com\\Startup.cs",
+              "RelativeToolTip": "RevalEmployeeAPI.RevalWeb.com\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:29:18.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

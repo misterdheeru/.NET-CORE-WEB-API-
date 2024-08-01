@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\controllers\\addaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\controllers\\addaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\models\\loginmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\models\\loginmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\views\\addaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\views\\addaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\views\\addaccount\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\views\\addaccount\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|d:\\programming\\asp.net mvc and core  and webapi by br\\core\\tag helpers\\exmp1\\exmp1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39C047B7-8519-4684-AAA0-870B8EEE5D33}|Exmp1\\Exmp1.csproj|solutionrelative:exmp1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\AddAccount\\Show.cshtml",
+              "RelativeDocumentMoniker": "Exmp1\\Views\\AddAccount\\Show.cshtml",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\AddAccount\\Show.cshtml",
+              "RelativeToolTip": "Exmp1\\Views\\AddAccount\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T07:11:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\libman.json",
+              "RelativeDocumentMoniker": "Exmp1\\libman.json",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\libman.json",
+              "RelativeToolTip": "Exmp1\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T05:22:51.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exmp1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exmp1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T14:54:36.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\AddAccount\\Login.cshtml",
+              "RelativeDocumentMoniker": "Exmp1\\Views\\AddAccount\\Login.cshtml",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Views\\AddAccount\\Login.cshtml",
+              "RelativeToolTip": "Exmp1\\Views\\AddAccount\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T14:44:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\appsettings.json",
+              "RelativeDocumentMoniker": "Exmp1\\appsettings.json",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\appsettings.json",
+              "RelativeToolTip": "Exmp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T14:40:28.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAccountController.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Controllers\\AddAccountController.cs",
+              "RelativeDocumentMoniker": "Exmp1\\Controllers\\AddAccountController.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Controllers\\AddAccountController.cs",
+              "RelativeToolTip": "Exmp1\\Controllers\\AddAccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:43:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginMode.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Models\\LoginMode.cs",
+              "RelativeDocumentMoniker": "Exmp1\\Models\\LoginMode.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Models\\LoginMode.cs",
+              "RelativeToolTip": "Exmp1\\Models\\LoginMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:41:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Program.cs",
+              "RelativeDocumentMoniker": "Exmp1\\Program.cs",
+              "ToolTip": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE\\Tag Helpers\\Exmp1\\Exmp1\\Program.cs",
+              "RelativeToolTip": "Exmp1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:37:24.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

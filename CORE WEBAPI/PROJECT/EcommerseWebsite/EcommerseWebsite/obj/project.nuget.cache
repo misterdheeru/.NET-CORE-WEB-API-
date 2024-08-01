@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wdl272ea+jg80j8Bmzu9Gmqa2E6Bu6JLNIP4FVqMtm3fP1pLdO/hjCxqDvT5XgrHSC7HbqzdvRFRgx4xSAgCxQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\ASP.NET MVC AND CORE  AND WEBAPI BY BR\\CORE WEBAPI\\PROJECT\\EcommerseWebsite\\EcommerseWebsite\\EcommerseWebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

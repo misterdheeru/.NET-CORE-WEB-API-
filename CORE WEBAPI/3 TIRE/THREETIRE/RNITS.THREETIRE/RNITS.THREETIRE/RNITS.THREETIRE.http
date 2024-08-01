@@ -1,0 +1,6 @@
+@RNITS.THREETIRE_HostAddress = http://localhost:5125
+
+GET {{RNITS.THREETIRE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

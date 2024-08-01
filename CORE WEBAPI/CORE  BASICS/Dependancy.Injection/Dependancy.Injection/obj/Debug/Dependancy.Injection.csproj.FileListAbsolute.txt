@@ -1,0 +1,10 @@
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\bin\Debug\Dependancy.Injection.exe.config
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\bin\Debug\Dependancy.Injection.exe
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\bin\Debug\Dependancy.Injection.pdb
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\obj\Debug\Dependancy.Injection.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\obj\Debug\Dependancy.Injection.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\obj\Debug\Dependancy.Injection.exe
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\obj\Debug\Dependancy.Injection.pdb
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\bin\Debug\RNRITS.IEmployees.dll
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\bin\Debug\RNRITS.IEmployees.pdb
+D:\PROGRAMMING\ASP.NET MVC AND CORE  AND WEBAPI BY BR\CORE WEBAPI\CORE  BASICS\Dependancy.Injection\Dependancy.Injection\obj\Debug\Dependan.1CA236E8.Up2Date

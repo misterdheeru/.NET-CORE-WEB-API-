@@ -1,0 +1,138 @@
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.AssemblyReference.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfoInputs.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfo.cs
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CoreCompileInputs.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.MvcApplicationPartsAssemblyInfo.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.RazorTargetAssemblyInfo.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CopyComplete
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.exe
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.deps.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.dev.json
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Manifest.cache
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.xml
+D:\Live\RevalEmployee.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.genruntimeconfig.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.exe
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.deps.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.dev.json
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.AssemblyReference.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfoInputs.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfo.cs
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CoreCompileInputs.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.MvcApplicationPartsAssemblyInfo.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.RazorTargetAssemblyInfo.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CopyComplete
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Manifest.cache
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.xml
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\Sample\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.genruntimeconfig.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.xml
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.exe
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.deps.json
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.json
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.dev.json
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.AssemblyReference.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfoInputs.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfo.cs
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CoreCompileInputs.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.RazorTargetAssemblyInfo.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Manifest.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Pack.cache
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RevalEmployeeAPI.RevalWeb.com.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RevalEmployeeAPI.RevalWeb.com.props
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RevalEmployeeAPI.RevalWeb.com.props
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RevalEmployeeAPI.RevalWeb.com.props
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmp.5614B330.Up2Date
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+C:\Users\miste\OneDrive\Desktop\New folder\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.genruntimeconfig.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.xml
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.exe
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.deps.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.runtimeconfig.dev.json
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Common.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\bin\Debug\netcoreapp3.1\Revalsys.Employee.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.AssemblyInfo.cs
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.RazorTargetAssemblyInfo.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Manifest.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\RevalEmployeeAPI.RevalWeb.com.StaticWebAssets.Pack.cache
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RevalEmployeeAPI.RevalWeb.com.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RevalEmployeeAPI.RevalWeb.com.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RevalEmployeeAPI.RevalWeb.com.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RevalEmployeeAPI.RevalWeb.com.props
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmp.5614B330.Up2Date
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.dll
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.pdb
+D:\PROGRAMMING\ASP.NET MVC BANGARU RAJU\CORE WEBAPI\Revalsis Project\RevalEmployeeAPI.RevalWeb.com\RevalEmployeeAPI.RevalWeb.com\obj\Debug\netcoreapp3.1\RevalEmployeeAPI.RevalWeb.com.genruntimeconfig.cache
